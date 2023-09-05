@@ -8,10 +8,11 @@ import {
   SiExpress,
   SiRedis,
   SiTailwindcss,
-  SiNetlify
+  SiNetlify,
+  SiPostman
 } from "react-icons/si";
 import { DiCss3, DiMongodb } from "react-icons/di";
-import { SiJavascript, SiHeroku } from "react-icons/si";
+import { SiJavascript, SiHeroku, SiPhp, SiSwift} from "react-icons/si";
 import { VscGithub } from "react-icons/vsc";
 import { BsBootstrap, BsWordpress } from "react-icons/bs";
 
@@ -52,20 +53,20 @@ export const Techstacks = () => {
           </div>
 
           <div>
-            <FaAws />
-            <h5>AWS</h5>
+            <SiPhp />
+            <h5>PHP</h5>
           </div>
           <div>
             <BsBootstrap />
             <h5>Bootstrap</h5>
           </div>
           <div>
-            <BsWordpress />
-            <h5>Wordpress</h5>
+            <SiPostman />
+            <h5>Postman</h5>
           </div>
           <div>
-            <SiHeroku />
-            <h5>Heroku</h5>
+            <SiSwift />
+            <h5>Swift</h5>
           </div>
           <div>
             <VscGithub />
