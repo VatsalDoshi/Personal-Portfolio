@@ -1,18 +1,39 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "./About.css";
 import { Type } from "./Type";
 import GitHubIcon from "@material-ui/icons/GitHub";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import EmailIcon from "@material-ui/icons/Email";
 import PhoneIcon from "@material-ui/icons/Phone";
-import TwitterIcon from "@material-ui/icons/Twitter";
-import DescriptionIcon from "@material-ui/icons/Description";
-// import PublicIcon from "@material-ui/icons/Public";
 import { Introduction } from "./Introduction";
 import { Timeline } from "./Timeline";
 import { Techstacks } from "./Techstacks";
-// import Button from "@mui/material/Button";
+
 export const About = () => {
+
+  // useEffect(() => {
+  //   // Add CSS for Calendly
+  //   const link = document.createElement("link");
+  //   link.rel = "stylesheet";
+  //   link.href = "https://assets.calendly.com/assets/external/widget.css";
+  //   document.head.appendChild(link);
+
+  //   // Add script for Calendly
+  //   const script = document.createElement("script");
+  //   script.src = "https://assets.calendly.com/assets/external/widget.js";
+  //   script.async = true;
+  //   script.onload = () => {
+  //     window.Calendly.initBadgeWidget({
+  //       url: 'https://calendly.com/vatsal-doshi/30min',
+  //       text: 'Schedule time with me',
+  //       color: '#0069ff',
+  //       textColor: '#ffffff',
+  //       branding: false,
+  //     });
+  //   };
+  //   document.body.appendChild(script);
+  // }, []);
+
   return (
     <>
       <div className="about center">
@@ -21,7 +42,7 @@ export const About = () => {
         </h1>
         <Type />
         <p className="about__desc" data-aos="fade-right">
-        Passionate and innovative Full Stack Developer with expertise in the MERN Stack. Adaptable to a wide range of tools and technologies, and always eager to acquire new skills. Experienced in database technologies, with a track record of successfully delivering over 10 projects in the past 3 years.
+          Passionate and innovative Full Stack Developer with expertise in the MERN Stack. Adaptable to a wide range of tools and technologies, and always eager to acquire new skills. Experienced in database technologies, with a track record of successfully delivering over 10 projects in the past 3 years.
         </p>
         <div className="about__contact center">
           <a
@@ -60,22 +81,7 @@ export const About = () => {
           >
             <LinkedInIcon />
           </a>
-
-            {/*
-          <a
-            href="https://twitter.com/KhakalShreyas"
-            aria-label="twitter"
-            className="link link--icon"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <TwitterIcon />
-          </a>
-          */
-            }
-
         </div>
-
         <button
           className="btnResume"
           onClick={() => {

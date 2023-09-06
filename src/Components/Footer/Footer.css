@@ -10,7 +10,7 @@
   padding-bottom: 20px;
   border-radius: 15px;
   background-color: transparent;
-  padding: 20px;
+  padding: 0px;
   height: auto;
 }
 
@@ -29,3 +29,31 @@
     margin-bottom: 0px;
   }
 }
+
+.calendly-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.calendly-button {
+  color: var(--clr-primary);
+  border: 2px solid var(--clr-primary);
+  border-radius: 5px;
+  height: 50px;
+  cursor: pointer;
+  padding: 0px 30px;
+  margin-top: -30px;
+  margin-bottom: 35px;
+  transition: all 0.3s ease-in-out;
+}
+
+.calendly-button:hover {
+  background-color: var(--clr-primary);
+  color: var(--clr-bg);
+}
+
+
+
+
