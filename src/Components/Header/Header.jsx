@@ -1,7 +1,7 @@
 import React from "react";
 import { Navbar } from "../Navbar/Navbar";
 import { ThemeContext } from "../../Context/theme";
-import Image from "./../../assets/S-logo.png";
+
 
 import "./Header.css";
 export const Header = () => {
