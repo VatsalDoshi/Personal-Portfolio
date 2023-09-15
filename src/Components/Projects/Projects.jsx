@@ -50,15 +50,6 @@ export const Projects = () => {
                   
                 </div>
                 <div>
-                  {/* <a
-                    href="https://store-rockstargames.vercel.app/"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <span type="button" className="btns onbt onbt">
-                      See this Live
-                    </span>
-                  </a> */}
                   <a
                     href="https://github.com/VatsalDoshi/JobNest"
                     target="_blank"
@@ -93,15 +84,6 @@ export const Projects = () => {
                   <IoLogoJavascript />
                 </div>
                 <div>
-                  {/* <a
-                    href="https://sk-weather-app.netlify.app/weather-app.html"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <span type="button" className="btns onbt">
-                      See this Live
-                    </span>
-                  </a> */}
                   <a
                     href="https://github.com/VatsalDoshi/Weather-App"
                     target="_blank"
@@ -136,17 +118,45 @@ export const Projects = () => {
                   
                 </div>
                 <div>
-                  {/* <a
-                    href="https://www.npmjs.com/package/apijs-mongo"
+                  <a
+                    href="https://github.com/VatsalDoshi/mini-projects-web-development"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    <span type="button" className="btns onbt onbt">
-                      View NPM Package
+                    <span type="button" className="btns onbt">
+                      View Code
                     </span>
-                  </a> */}
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="projects_container world_bank" data-aos="fade-right">
+            <div className="project">
+              <div className="project_videocontainer">
+                <div>
+                  <img
+                    src="https://user-images.githubusercontent.com/114709734/265758994-7bce3e5b-7d9f-4653-be2f-e6ad7293a3bb.png"
+                    alt="Banking site"
+                  />
+                </div>
+              </div>
+              <div className="project_information">
+                <h2>World Bank</h2>
+                <p>
+                Developed a dynamic Banking System website with a frontend in HTML and CSS, backend in PHP, and SQL database, featuring functionalities for 10 dummy customers to transfer money and view transaction history.
+                </p>
+                <div>
+                  
+                  <SiHtml5 />
+                  <DiCss3 />
+                  <SiMysql />
+                  <SiPhp />
+                </div>
+                <div>
                   <a
-                    href="https://github.com/VatsalDoshi/mini-projects-web-development"
+                    href="https://github.com/VatsalDoshi/Backend-System"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -182,73 +192,20 @@ export const Projects = () => {
                   <SiMongodb />
                 </div>
                 <div>
-                  {/* <a
-                    href="https://drive-system.herokuapp.com/user/"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <span type="button" className="btns onbt onbt">
-                      URL for the API
-                    </span>
-                  </a> */}
                   <a
-                    href="https://github.com/VatsalDoshi/Backend-System"
+                    // href="https://github.com/VatsalDoshi/Backend-System"
                     target="_blank"
                     rel="noreferrer"
                   >
                     <span type="button" className="btns onbt">
-                      View Code
+                      Upcoming Project
                     </span>
                   </a>
                 </div>
               </div>
             </div>
           </div>
-          <div className="projects_container world_bank" data-aos="fade-right">
-            <div className="project">
-              <div className="project_videocontainer">
-                <div>
-                  <img
-                    src="https://user-images.githubusercontent.com/114709734/265758994-7bce3e5b-7d9f-4653-be2f-e6ad7293a3bb.png"
-                    alt="Banking site"
-                  />
-                </div>
-              </div>
-              <div className="project_information">
-                <h2>World Bank</h2>
-                <p>
-                Developed a dynamic Banking System website with a frontend in HTML and CSS, backend in PHP, and SQL database, featuring functionalities for 10 dummy customers to transfer money and view transaction history.
-                </p>
-                <div>
-                  
-                  <SiHtml5 />
-                  <DiCss3 />
-                  <SiMysql />
-                  <SiPhp />
-                </div>
-                <div>
-                  {/* <a
-                    href="https://github.com/VatsalDoshi/Banking-System"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <span type="button" className="btns onbt onbt">
-                      See this Live
-                    </span>
-                  </a> */}
-                  <a
-                    href="https://github.com/Shreyasgkhakal100/uniqlo-backend-2"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <span type="button" className="btns onbt">
-                      View Code
-                    </span>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
+          
           <div className="projects_container" data-aos="fade-right">
             <div className="project">
               <div className="project_videocontainer">
@@ -272,22 +229,13 @@ export const Projects = () => {
                   <SiNodedotjs />
                 </div>
                 <div>
-                  {/* <a
-                    href="https://pulseplus-clone.netlify.app/landing_page.html"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <span type="button" className="btns onbt onbt">
-                      See this Live
-                    </span>
-                  </a> */}
                   <a
-                    href="https://github.com/VatsalDoshi/Flipkart-Clone"
+                    // href="https://github.com/VatsalDoshi/Flipkart-Clone"
                     target="_blank"
                     rel="noreferrer"
                   >
                     <span type="button" className="btns onbt">
-                      View Code
+                      Upcoming Project
                     </span>
                   </a>
                 </div>
