@@ -156,7 +156,7 @@ export const Projects = () => {
                 </div>
                 <div>
                   <a
-                    href="https://github.com/VatsalDoshi/Backend-System"
+                    href="https://github.com/VatsalDoshi/Banking-System"
                     target="_blank"
                     rel="noreferrer"
                   >
