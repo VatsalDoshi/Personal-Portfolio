@@ -38,16 +38,14 @@ export const About = () => {
     <>
       <div className="about center">
         <h1 data-aos="fade-right" className="mobileHead">
-          Hello, I am <span className="about__name">Avishkar Gaikwad</span>
+          Hello, I am <span className="about__name">Vatsal Doshi</span>
         </h1>
         <Type />
         <p className="about__desc" data-aos="fade-right">
-        Passionate consulting and finance enthusiast with an experience in risk consulting. Have previously worked in 
-        financial services, consumer market Healthcare and other sectors. I am proficient in technical skills required for 
-        a professional.
+          Passionate and innovative Full Stack Developer with expertise in the MERN Stack. Adaptable to a wide range of tools and technologies, and always eager to acquire new skills. Experienced in database technologies, with a track record of successfully delivering over 10 projects in the past 3 years.
         </p>
         <div className="about__contact center">
-          {/* <a
+          <a
             href="https://github.com/VatsalDoshi"
             aria-label="github"
             target="_blank"
@@ -55,9 +53,9 @@ export const About = () => {
             className="link link--icon"
           >
             <GitHubIcon />
-          </a> */}
+          </a>
           <a
-            href="mailto:gaikwad.avi@northeastern.edu"
+            href="mailto:doshi.va@northeastern.edu"
             target="_blank"
             rel="noreferrer"
             aria-label="mail"
@@ -66,7 +64,7 @@ export const About = () => {
             <EmailIcon />
           </a>
           <a
-            href="tel:+18572005017"
+            href="tel:+18578916633"
             target="_blank"
             rel="noreferrer"
             aria-label="phone"
@@ -75,7 +73,7 @@ export const About = () => {
             <PhoneIcon />
           </a>
           <a
-            href="https://www.linkedin.com/in/avishkar-gaikwad-/"
+            href="https://www.linkedin.com/in/vatsal-v-doshi/"
             aria-label="linkedin"
             className="link link--icon"
             target="_blank"

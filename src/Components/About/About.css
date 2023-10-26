@@ -3,8 +3,7 @@
   margin-top: 3em;
 }
 .about__name {
-  /* color: var(--clr-primary); */
-  color: red;
+  color: var(--clr-primary);
 }
 .about > :nth-child(2) {
   margin-top: 1.2em;
