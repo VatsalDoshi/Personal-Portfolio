@@ -48,7 +48,13 @@ export const Introduction = () => {
             */}
 
             <h4>
-            Hey there! I'm currently pursuing my Master of Science in Information Systems at Northeastern University. Along the way, I've delved into crafting user-friendly apps, designing databases, and enhancing web experiences, armed with Python, Java, R, SQL, HTML/CSS, Bootstrap, ReactJS, NodeJS, and more. I've jazzed up web pages during my time at Eyuva Technologies and dived into data magic at The Sparks Foundation. Beyond the books, I've whipped up Twitter bots, cooked a hotel management system, and even tinkered with smart road maintenance through machine learning and IoT. I'm an enthusiastic techie excited to add a dash of skill and spark to a dynamic team!
+            I am currently pursuing a Master's in Business Analytics at Northeastern University, with a Bachelor's in 
+            Management Studies focused on Marketing. As a former risk analyst, I've analyzed data in finance, real estate, 
+            and consumer markets. I've also interned in marketing and business consulting, gaining experience in 
+            campaigns, creative ideation, and government interactions. Alongside my academic and professional pursuits, 
+            I've earned awards in film production, developed leadership skills in sports, and gained proficiency in 
+            programming. I aspire to leverage my analytics and strategic thinking skills in consulting roles to drive 
+            impactful solutions in the business world.
             </h4>
               
 
