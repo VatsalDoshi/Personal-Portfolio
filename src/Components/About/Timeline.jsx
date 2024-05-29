@@ -63,7 +63,7 @@ export const Timeline = () => {
               Northeastern University
             </h4>
             <p data-aos="fade-right">
-              Pursuing Masters of Science in Information Systems
+              Graduated from Northeastern University with a Masters of Science in Information Systems with my major in Computer Software Engineering
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement

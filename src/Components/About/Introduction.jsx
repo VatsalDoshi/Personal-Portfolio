@@ -48,7 +48,7 @@ export const Introduction = () => {
             */}
 
             <h4>
-            Hey there! I'm currently pursuing my Master of Science in Information Systems at Northeastern University. Along the way, I've delved into crafting user-friendly apps, designing databases, and enhancing web experiences, armed with Python, Java, R, SQL, HTML/CSS, Bootstrap, ReactJS, NodeJS, and more. I've jazzed up web pages during my time at Eyuva Technologies and dived into data magic at The Sparks Foundation. Beyond the books, I've whipped up Twitter bots, cooked a hotel management system, and even tinkered with smart road maintenance through machine learning and IoT. I'm an enthusiastic techie excited to add a dash of skill and spark to a dynamic team!
+            Hey there! I have Graduated from Northeastern University with a Master of Science in Information Systems. Along the way, I've delved into crafting user-friendly apps, designing databases, and enhancing web experiences, armed with Python, Java, R, SQL, HTML/CSS, Bootstrap, ReactJS, NodeJS, and more. I've jazzed up web pages during my time at Eyuva Technologies and dived into data magic at The Sparks Foundation. Beyond the books, I've whipped up Twitter bots, cooked a hotel management system, and even tinkered with smart road maintenance through machine learning and IoT. I'm an enthusiastic techie excited to add a dash of skill and spark to a dynamic team!
             </h4>
               
 
