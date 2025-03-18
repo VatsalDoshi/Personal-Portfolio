@@ -69,7 +69,7 @@ export const Navbar = () => {
               Contact
             </a>
           </li>
-          <li className="nav__list-item">
+          {/* <li className="nav__list-item">
             <a
               href="https://drive.google.com/file/d/10aB6-KTGZAMlibVj42yqu312XYXKRe6J/view?usp=sharing"
               onClick={toggleNavList}
@@ -79,7 +79,7 @@ export const Navbar = () => {
             >
               Resume
             </a>
-          </li>
+          </li> */}
         </ul>
         <button
           type="button"

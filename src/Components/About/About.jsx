@@ -42,7 +42,7 @@ export const About = () => {
         </h1>
         <Type />
         <p className="about__desc" data-aos="fade-right">
-          Passionate and innovative Full Stack Developer with expertise in the MERN Stack. Adaptable to a wide range of tools and technologies, and always eager to acquire new skills. Experienced in database technologies, with a track record of successfully delivering over 10 projects in the past 3 years.
+        Software Engineer specializing in backend development, cloud deployment, and microservices architecture. Experienced in Python (Flask, Django), Java (Spring Boot), AWS/Azure cloud services, Docker/Kubernetes containerization, and CI/CD automation. Passionate about building scalable, high-performance applications with robust APIs and optimized databases.
         </p>
         <div className="about__contact center">
           <a
@@ -55,7 +55,7 @@ export const About = () => {
             <GitHubIcon />
           </a>
           <a
-            href="mailto:doshi.va@northeastern.edu"
+            href="mailto:doshivatsalv@northeastern.edu"
             target="_blank"
             rel="noreferrer"
             aria-label="mail"
@@ -63,7 +63,7 @@ export const About = () => {
           >
             <EmailIcon />
           </a>
-          <a
+          {/* <a
             href="tel:+18578916633"
             target="_blank"
             rel="noreferrer"
@@ -71,8 +71,8 @@ export const About = () => {
             className="link link--icon"
           >
             <PhoneIcon />
-          </a>
-          <a
+          </a> */}
+          {/* <a
             href="https://www.linkedin.com/in/vatsal-v-doshi/"
             aria-label="linkedin"
             className="link link--icon"
@@ -80,9 +80,9 @@ export const About = () => {
             rel="noreferrer"
           >
             <LinkedInIcon />
-          </a>
+          </a> */}
         </div>
-        <button
+        {/* <button
           className="btnResume"
           onClick={() => {
             window.open(
@@ -91,10 +91,10 @@ export const About = () => {
           }}
         >
           Resume
-        </button>
+        </button> */}
       </div>
       <Introduction />
-      <Timeline />
+      {/* <Timeline /> */}
       <section id="#skills">
         <Techstacks />
       </section>
